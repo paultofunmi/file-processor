@@ -1,0 +1,17 @@
+9075462145;Airtel Shop ALABA;Lagos;Lagos Island;36 Alaba International Market Road Alaba
+7014969171;Airtel Shop Apapa Mall;Lagos;Lagos Mainland;Apapa Mall (Shoprite),Park Lane Road, Apapa.
+7083747239;Airtel Shop Ilupeju;Lagos;Lagos Mainland;22 Town Planning Way; Ilupeju
+8122577957;Airtel Shop MM2 Domestic Airport;Lagos;Lagos Boundary;Lagos Domestic Airport (Mm2)
+7087189332;Airtel Shop Bauchi;North East;Kano Zone;22 commercial Road Bauchi
+9048951250;Airtel Shop Stick and Stones;North West;Abuja Zone;Sticks And Stone Plaza(Plaza With Gtb) Plot 1245 Adetokunbo Ademola Crescent,Besides Otis Carpet Plaza, Wuse 2 Abuja
+7016103846;Airtel Shop Transcorp Hilton;North West;Abuja Zone;Foyer At The Hilton(1 Aguyi Ironsi Road Maitama) Beside Zenith Bank Opposite Mtn
+7017964327;Airtel Shop Transcorp Hilton;North West;Abuja Zone;Foyer At The Hilton(1 Aguyi Ironsi Road Maitama) Beside Zenith Bank Opposite Mtn
+9116203424;Airtel Shop Ajesa;North West;Abuja Zone;17 Ajesa Street off Aminu Kano Crescent Wuse 2 Abuja
+9113586159;Airtel Shop Eket;South South;Akwa-Ibom Zone;88 Eket-Oron Road Eket
+9115605507;Airtel Shop Eket;South South;Akwa-Ibom Zone;88 Eket-Oron Road Eket
+9114541469;Airtel Shop Eket;South South;Akwa-Ibom Zone;88 Eket-Oron Road Eket
+9012846045;Airtel Shop Uyo;South South;Akwa-Ibom Zone;82 Ikot Ekpene Road Uyo
+8029844498;Airtel Shop Ibadan;West;Oyo;Airtel Regional Office 4 Secretariat Dual Carriage Way Bodija Ibadan
+8080796417;Airtel Shop Port Harcourt;North West;Abuja Zone;Sticks And Stone Plaza(Plaza With Gtb) Plot 1245 Adetokunbo Ademola Crescent Besides Otis Carpet Plaza Wuse 2
+9117397897;Airtel Shop Ajesa;North West;Abuja Zone;17 Ajesa Street Off Aminu Kano Crescent Wuse 2 Abuja
+8125773951;Airtel Shop Ajesa;North West;Abuja Zone;17 Ajesa Street Off Aminu Kano Crescent Wuse 2 Abuja

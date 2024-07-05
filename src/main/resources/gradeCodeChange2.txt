@@ -1,0 +1,20 @@
+"MSISDN","DOB","ID_NO","GENDER","ID_TYPE","MSISDN","ADDRESS1","ADDRESS2","CITY","STATE","COUNTRY","REGION","LAST_NAME","FIRST_NAME","DIVISION","CATEGORY_CODE"
+"7010467929",1989-04-02 12:19:00.000,"7010467929",,CLM ID FOR TIER1,"7010467929",permanentAddress,temporaryAddress,,,Africa,,OGUNSOLA,ADESANYA,DEL,RT
+"7011112830",1989-06-03 19:32:53.000,"24335268724",GEN_MAL,CLM,"7011112830",okegege Area Iiora oyo,okegege Area Iiora oyo,city,state,NA,,Akinrinola,Funmilayo,,RT
+"7013763546",1982-09-14 15:51:54.000,"7013763546",,CLM ID FOR TIER1,"7013763546",permanentAddress,temporaryAddress,,,Africa,,ADEBAYO,VICTOR,DEL,RT
+"7084467421",1994-07-13 16:07:23.000,"67543217898",Female,CLM,"7084467421",lkolaba lbadan,lkolaba lbadan,city,state,NA,,great,mukoro,,RT
+"8022285506",1993-01-14 16:49:59.000,"38205769922",Female,CLM,"8022285506",chief dada house dada estate osogbo,chief dada house dada estate osogbo,city,state,NA,,FASINA,OLUWATOYIN,,RT
+"8022556784",1981-09-22 10:46:48.000,"15365784074",Female,CLM,"8022556784",church street dada estate,church street dada estate,city,state,NA,,WUMI,ADEBAYO,,RT
+"8026543263",1988-04-24 16:08:25.000,"22438682331",GEN_MAL,BVN,"8026543263","13","13",city,state,NG,,AGBOOLA,BODUNDE,,RT
+"8026961876",1985-02-07 15:35:12.000,"8026961876",,CLM ID FOR TIER1,"8026961876",permanentAddress,temporaryAddress,,,Africa,,LATEEF,AFEEZ,DEL,RT
+"8027316515",1982-04-09 17:17:19.000,"8027316515",,CLM ID FOR TIER1,"8027316515",permanentAddress,temporaryAddress,,,Africa,,MOJEED,NAFISAT,DEL,RT
+"8029587272",1989-02-05 20:32:48.000,"8029587272",,CLM ID FOR TIER1,"8029587272",permanentAddress,temporaryAddress,,,Africa,,AYETIGBO,STEHEN,DEL,RT
+"8088799306",2004-11-24 14:38:05.000,"22636538188",Female,BVN,"8088799306",NO 16 OLAELEDUMARE ESTATE ADEBOWALE ONDO ROAD,NO 16 OLAELEDUMARE ESTATE ADEBOWALE ONDO ROAD,city,state,NG,,ISINJOKUN,OLUWATOSIN,,RT
+"8089928542",2000-11-09 12:35:24.000,"70429433975",GEN_MAL,CLM,"8089928542",Amala Area odeomu,Amala Area odeomu,city,state,NA,,oyekunle,oyeniyi,,RT
+"9011266796",1966-06-03 14:22:29.000,"82473413373",GEN_MAL,CLM,"9011266796",lagere area odeomu,lagere area odeomu,city,state,NA,,oluwafemi,sangoremi,,RT
+"9018559946",1988-08-23 07:05:21.000,"28378064915",GEN_MAL,CLM,"9018559946","1,ayepe junction ikenne","1,ayepe junction ikenne",city,state,NA,,Adewole,Rahmotallah,,RT
+"9078304929",1987-03-17 20:08:15.000,"85939989796",Female,CLM,"9078304929",kajola estate idotun ijebu ode,kajola estate idotun ijebu ode,city,state,NA,,Felicia,Ogunyemi,,RT
+"9079347853",2006-09-06 13:05:15.000,"9079347853",,CLM ID FOR TIER1,"9079347853",permanentAddress,temporaryAddress,,,Africa,,OLORUNFEMI,AYOMIDE,DEL,RT
+"9118905886",1990-05-18 13:50:42.000,"9118905886",,CLM ID FOR TIER1,"9118905886",permanentAddress,temporaryAddress,,,Africa,,OYETUNJI,BOSE,DEL,RT
+"9122903516",1983-10-25 13:16:48.000,"95104307252",GEN_MAL,CLM,"9122903516",oke Bola area gbongan,oke Bola area gbongan,city,state,NA,,Ayobami,Adebayo,,RT
+

@@ -1,0 +1,26 @@
+1702098325978,2262,audit_gsm_nin_update - NIN - 73127862665 - msidn -9017815682,200,,Thread Group 1-1,text,true,,848,853,34,34,https://apps.ng.prod.psb.k8s.africa.airtel.itm/kong/collective/rest/data/onboarding/v1/startProcess,2262,0,1074
+1702098326044,2230,audit_gsm_nin_update - NIN - 22499541134 - msidn -9046764160,200,,Thread Group 1-2,text,true,,848,847,35,35,https://apps.ng.prod.psb.k8s.africa.airtel.itm/kong/collective/rest/data/onboarding/v1/startProcess,2230,0,1051
+1702098326249,3754,audit_gsm_nin_update - NIN - 20257781511 - msidn -9074930056,200,,Thread Group 1-5,text,true,,848,850,61,61,https://apps.ng.prod.psb.k8s.africa.airtel.itm/kong/collective/rest/data/onboarding/v1/startProcess,3754,0,1128
+1702098326182,3926,audit_gsm_nin_update - NIN - 47100312117 - msidn -9024857145,200,,Thread Group 1-4,text,true,,848,848,62,62,https://apps.ng.prod.psb.k8s.africa.airtel.itm/kong/collective/rest/data/onboarding/v1/startProcess,3926,0,1197
+1702098326316,3796,audit_gsm_nin_update - NIN - 78786878351 - msidn -9047561779,200,,Thread Group 1-6,text,true,,848,852,62,62,https://apps.ng.prod.psb.k8s.africa.airtel.itm/kong/collective/rest/data/onboarding/v1/startProcess,3796,0,1064
+1702098326381,3905,audit_gsm_nin_update - NIN - 77900857539 - msidn -9029641017,200,,Thread Group 1-7,text,true,,848,851,65,65,https://apps.ng.prod.psb.k8s.africa.airtel.itm/kong/collective/rest/data/onboarding/v1/startProcess,3905,0,1091
+
+timeStamp
+
+timeStamp
+elapsed,
+label,
+responseCode,
+responseMessage,
+threadName,
+dataType,
+success,
+failureMessage,
+bytes,
+sentBytes,
+grpThreads,
+allThreads,
+URL,
+Latency,
+IdleTime,
+Connect

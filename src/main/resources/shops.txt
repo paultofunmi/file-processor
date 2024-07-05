@@ -1,0 +1,289 @@
+9042383458;Airtel Shop AEP Lasu;Lagos;Lagos Island;Faculty Of Art, Lasu Main Campus, Ojo, Lagos
+7014673125;Airtel Shop ALABA ;Lagos;Lagos Island;36, Alaba International Market Road, Alaba
+7014869803;Airtel Shop ALABA ;Lagos;Lagos Island;36, Alaba International Market Road, Alaba
+8121345904;Airtel Shop ALABA ;Lagos;Lagos Island;36, Alaba International Market Road, Alaba
+7010461164;Airtel Shop ALABA ;Lagos;Lagos Island;36, Alaba International Market Road, Alaba
+7010996493;Airtel Shop ALABA ;Lagos;Lagos Island;36, Alaba International Market Road, Alaba
+9075462232;Airtel Shop ALABA ;Lagos;Lagos Island;36, Alaba International Market Road, Alaba
+9075462145;Airtel Shop ALABA ;Lagos;Lagos Island;36, Alaba International Market Road, Alaba
+7014319788;Airtel Shop ALABA ;Lagos;Lagos Island;36, Alaba International Market Road, Alaba
+7013808385;Airtel Shop ALABA ;Lagos;Lagos Island;36, Alaba International Market Road, Alaba
+7019353340;Airtel Shop ALABA ;Lagos;Lagos Island;36, Alaba International Market Road, Alaba
+8028169309;Airtel Shop Apapa Mall;Lagos;Lagos Mainland;Apapa Mall, Apapa
+7014561028;Airtel Shop Apapa Mall;Lagos;Lagos Mainland;Apapa Mall, Apapa
+7012720798;Airtel Shop Apapa Mall;Lagos;Lagos Mainland;Apapa Mall, Apapa
+7010999123;Airtel Shop Apapa Mall;Lagos;Lagos Mainland;Apapa Mall, Apapa
+7011000694;Airtel Shop Apapa Mall;Lagos;Lagos Mainland;Apapa Mall, Apapa
+7014969171;Airtel Shop Apapa Mall;Lagos;Lagos Mainland;Apapa Mall (Shoprite).Park Lane Road, Apapa.
+7011663668;Airtel Shop Apapa Mall;Lagos;Lagos Mainland;Apapa Mall (Shoprite).Park Lane Road, Apapa.
+7011644551;Airtel Shop Apapa Mall;Lagos;Lagos Mainland;Apapa Mall (Shoprite).Park Lane Road, Apapa.
+9024036861;Airtel Shop Apapa Mall;Lagos;Lagos Mainland;Apapa Mall (Shoprite).Park Lane Road, Apapa.
+7010636336;Airtel Shop Ikorodu ;Lagos;Lagos Boundary;199, Lagos Road Ikorodu, Lagos
+7011645554;Airtel Shop Ikorodu ;Lagos;Lagos Boundary;199, Lagos Road Ikorodu, Lagos
+7010655770;Airtel Shop Ikorodu ;Lagos;Lagos Boundary;199, Lagos Road Ikorodu, Lagos
+7011655353;Airtel Shop Ikorodu ;Lagos;Lagos Boundary;199, Lagos Road Ikorodu, Lagos
+7010728882;Airtel Shop Ikorodu ;Lagos;Lagos Boundary;199, Lagos Road Ikorodu, Lagos
+7010772775;Airtel Shop Ikorodu ;Lagos;Lagos Boundary;199, Lagos Road Ikorodu, Lagos
+7010928073;Airtel Shop Ikorodu ;Lagos;Lagos Boundary;199, Lagos Road Ikorodu, Lagos
+7010551840;Airtel Shop Ilupeju ;Lagos;Lagos Mainland;22, Town Planning Way, Ilupeju
+7010796901;Airtel Shop Ilupeju ;Lagos;Lagos Mainland;22, Town Planning Way, Ilupeju
+7018135166;Airtel Shop Ilupeju ;Lagos;Lagos Mainland;22, Town Planning Way, Ilupeju
+7083747239;Airtel Shop Ilupeju ;Lagos;Lagos Mainland;22, Town Planning Way, Ilupeju
+7011204495;Airtel Shop Ilupeju ;Lagos;Lagos Mainland;22, Town Planning Way, Ilupeju
+7010593000;Airtel Shop Ilupeju ;Lagos;Lagos Mainland;22, Town Planning Way, Ilupeju
+7011663633;Airtel Shop Ilupeju ;Lagos;Lagos Mainland;22, Town Planning Way, Ilupeju
+7010611220;Airtel Shop Ilupeju ;Lagos;Lagos Mainland;22, Town Planning Way, Ilupeju
+7010669944;Airtel Shop Ilupeju ;Lagos;Lagos Mainland;22, Town Planning Way, Ilupeju
+7010585658;Airtel Shop Lagoon Mall;Lagos;Lagos Island;The Lagoon Shopping Mall, Lekki
+7015453091;Airtel Shop Lagoon Mall;Lagos;Lagos Island;The Lagoon Shopping Mall, Lekki
+9112817123;Airtel Shop Lagoon Mall;Lagos;Lagos Island;The Lagoon Shopping Mall, Lekki
+7010715000;Airtel Shop Lagoon Mall;Lagos;Lagos Island;The Lagoon Shopping Mall, Lekki
+7010599393;Airtel Shop Lagoon Mall;Lagos;Lagos Island;The Lagoon Shopping Mall, Lekki
+7013585827;Airtel Shop Lagoon Mall;Lagos;Lagos Island;The Lagoon Shopping Mall, Lekki
+7011644545;Airtel Shop Lagos Intl Airport ;Lagos;Lagos Boundary;Mmia Departure
+7015574792;Airtel Shop Lagos Intl Airport ;Lagos;Lagos Boundary;Mmia Departure
+9026710657;Airtel Shop Lagos Airport Outpost;Lagos;Lagos Boundary;Arrival
+9118028167;Airtel Shop MM2 Domestic Airport;Lagos;Lagos Boundary;Lagos Domestic Airport (Mm2)
+8122577957;Airtel Shop MM2 Domestic Airport;Lagos;Lagos Boundary;Lagos Domestic Airport (Mm2)
+7010687786;Airtel Shop MM2 Domestic Airport;Lagos;Lagos Boundary;Lagos Domestic Airport (Mm2)
+7010489212;Airtel Shop MM2 Domestic Airport;Lagos;Lagos Boundary;Arik
+7010611211;Airtel Shop Matis Mall;Lagos;Lagos Island;27 Castle Rock Avenue Etiosa Lagos
+7011655221;Airtel Shop Matis Mall;Lagos;Lagos Island;27 Castle Rock Avenue Etiosa Lagos
+7013585329;Airtel Shop Matis Mall;Lagos;Lagos Island;27 Castle Rock Avenue Etiosa Lagos
+9126326214;Airtel Shop Matis Mall;Lagos;Lagos Island;27 Castle Rock Avenue Etiosa Lagos
+7084303566;Airtel Shop Mega Hq;Lagos;Lagos Island;Hq Plot L2 Banana Island
+7014879455;Airtel Shop Mega Hq;Lagos;Lagos Island;Hq Plot L2 Banana Island
+9049430108;Airtel Shop Mega Keystone;Lagos;Lagos Island;Keystone Bank - 707 Adeola Hopewell Str. V/I
+7010995871;Airtel Shop Mega Oyin Jolayemi;Lagos;Lagos Island;Plot 1664 Oyinjolayemi V/I
+7016075612;Airtel Shop Mega Oyin Jolayemi;Lagos;Lagos Island;Plot 1664 Oyinjolayemi V/I
+8081487662;Airtel Shop Oba-Akran ;Lagos;Lagos Boundary;13, Oba Akran Way, Ikeja
+8089290967;Airtel Shop Oba-Akran ;Lagos;Lagos Boundary;13, Oba Akran Way, Ikeja
+9079628041;Airtel Shop Oba-Akran ;Lagos;Lagos Boundary;11 Oba Akran Way, Ikeja.
+8123966721;Airtel Shop Oba-Akran ;Lagos;Lagos Boundary;11 Oba Akran Way, Ikeja.
+7010928685;Airtel Shop Oba-Akran ;Lagos;Lagos Boundary;11 Oba Akran Way, Ikeja.
+7011356845;Airtel Shop Oba-Akran ;Lagos;Lagos Boundary;11 Oba Akran Way, Ikeja.
+7016481429;Airtel Shop Oba-Akran ;Lagos;Lagos Boundary;11 Oba Akran Way, Ikeja.
+7010686855;Airtel Shop Oba-Akran ;Lagos;Lagos Boundary;13, Oba Akran Way, Ikeja
+7011051171;Airtel Shop Oba-Akran ;Lagos;Lagos Boundary;13, Oba Akran Way, Ikeja
+7010737337;Airtel Shop Oba-Akran ;Lagos;Lagos Boundary;13, Oba Akran Way, Ikeja
+7010636322;Airtel Shop Oba-Akran ;Lagos;Lagos Boundary;13, Oba Akran Way, Ikeja
+7010685558;Airtel Shop Oba-Akran ;Lagos;Lagos Boundary;13, Oba Akran Way, Ikeja
+7011050012;Airtel Shop Ogba ;Lagos;Lagos Boundary;18, Isheri Road, Ogba
+7010996080;Airtel Shop Ogba ;Lagos;Lagos Boundary;18, Isheri Road, Ogba
+7011657777;Airtel Shop Ogba ;Lagos;Lagos Boundary;18, Isheri Road, Ogba
+7011629992;Airtel Shop Ogba ;Lagos;Lagos Boundary;18, Isheri Road, Ogba
+7011648484;Airtel Shop Ogba ;Lagos;Lagos Boundary;18, Isheri Road, Ogba
+7010596666;Airtel Shop Ogba ;Lagos;Lagos Boundary;18, Isheri Road, Ogba
+7010596000;Airtel Shop Ogba ;Lagos;Lagos Boundary;18, Isheri Road, Ogba
+7011628111;Airtel Shop Ogba ;Lagos;Lagos Boundary;18, Isheri Road, Ogba
+7010666652;Airtel Shop Ogba ;Lagos;Lagos Boundary;18, Isheri Road, Ogba
+7014359966;Airtel Shop Opebi ;Lagos;Lagos Boundary;Pentagon Plaza, 23  Opebi Road
+7016480108;Airtel Shop Opebi ;Lagos;Lagos Boundary;Pentagon Plaza, 23  Opebi Road
+7011300622;Airtel Shop Opebi ;Lagos;Lagos Boundary;Pentagon Plaza, 23  Opebi Road
+7011665660;Airtel Shop Opebi ;Lagos;Lagos Boundary;23, Pentagon Plaza, Opebi Road, Ikeja
+7010699595;Airtel Shop Opebi ;Lagos;Lagos Boundary;23, Pentagon Plaza, Opebi Road, Ikeja
+7010699292;Airtel Shop Opebi ;Lagos;Lagos Boundary;23, Pentagon Plaza, Opebi Road, Ikeja
+7010666635;Airtel Shop Opebi ;Lagos;Lagos Boundary;23, Pentagon Plaza, Opebi Road, Ikeja
+9115201864;Airtel Shop Silverbird ;Lagos;Lagos Island;133, Ahmadu Bello Way, Silverbird Galleria, Victoria Island
+7010694444;Airtel Shop Silverbird ;Lagos;Lagos Island;Silverbird Galleria: 133, Ahmadu Bello Way, Victoria Island, Lagos
+7010671176;Airtel Shop Silverbird ;Lagos;Lagos Island;Silverbird Galleria: 133, Ahmadu Bello Way, Victoria Island, Lagos
+7010666388;Airtel Shop Silverbird ;Lagos;Lagos Island;Silverbird Galleria: 133, Ahmadu Bello Way, Victoria Island, Lagos
+8029567684;Airtel Shop Surulere  ;Lagos;Lagos Mainland;18 Bode Thomas Street, Surulere, Lagos.
+7010996697;Airtel Shop Surulere  ;Lagos;Lagos Mainland;18 Bode Thomas Street, Surulere, Lagos.
+7089038860;Airtel Shop Surulere  ;Lagos;Lagos Mainland;18 Bode Thomas Street, Surulere, Lagos.
+7010930881;Airtel Shop Surulere  ;Lagos;Lagos Mainland;18 Bode Thomas Street, Surulere, Lagos.
+7011652111;Airtel Shop Surulere  ;Lagos;Lagos Mainland;18 Bode Thomas Street, Surulere, Lagos.
+7019208454;Airtel Shop Surulere  ;Lagos;Lagos Mainland;18 Bode Thomas Street, Surulere, Lagos.
+8087711125;Airtel Shop Surulere  ;Lagos;Lagos Mainland;18 Bode Thomas Street, Surulere, Lagos.
+7015153967;Airtel Shop Tejuosho Cluster;Lagos;Lagos Mainland;Oando Filling Station. Opposite Tejuosho Ultra Modern Market, Yaba, Lagos.
+7010692296;Airtel Shop Tejuosho Cluster;Lagos;Lagos Mainland;Oando F/S, Opposite Tejuosho Ultra Modern Market, Yaba
+7010698896;Airtel Shop Tejuosho Cluster;Lagos;Lagos Mainland;Oando F/S, Opposite Tejuosho Ultra Modern Market, Yaba
+7011646864;Airtel Shop Tejuosho Cluster;Lagos;Lagos Mainland;Oando F/S, Opposite Tejuosho Ultra Modern Market, Yaba
+7016045691;Airtel Shop Unilag ;Lagos;Lagos Mainland;Faculty Of Education Unilag Akoka
+7010595944;Airtel Shop Unilag ;Lagos;Lagos Mainland;Faculty Of Education Unilag Akoka
+7015756565;Airtel Shop Bauchi ;North East;Kano Zone;22 Commercial Road , Bauchi
+7017488674;Airtel Shop Bauchi ;North East;Kano Zone;22 commercial Road , Bauchi
+7016101069;Airtel Shop Bauchi ;North East;Kano Zone;22 commercial Road , Bauchi
+7016178123;Airtel Shop Gombe ;North East;Borno Zone;Near Accountant General Office Along Bauchi – Gombe Road
+7014066560;Airtel Shop Gombe ;North East;Borno Zone;Near Accountant General Office Along Bauchi – Gombe Road
+8126812147;Airtel Shop Kano ;North East;Kano Zone;2 Yolawa Street, Malamkato, Kano.
+7017641812;Airtel Shop Kano ;North East;Kano Zone;2 Yolawa Street, Malamkato, Kano.
+7017642276;Airtel Shop Kano ;North East;Kano Zone;2 Yolawa Street, Malamkato, Kano.
+9044513816;Airtel Shop Kano ;North East;Kano Zone;2 Yolawa Street, Malamkato, Kano.
+7012614335;Airtel Shop Kano ;North East;Kano Zone;2 Yolawa Street, Malamkato, Kano.
+9014476714;Airtel Shop Maiduguri ;North East;Borno Zone;26 Sir Kashim Ibrahim Way, Maiduguri
+9070234757;Airtel Shop Maiduguri Ac Kiosk (UniMaid);North East;Borno Zone;Unimaid Opp. Ict Center
+7016733876;Airtel Shop Prime Hub;North East;Kano Zone;Prime Hub Plaza, No 7 Zoo Road, Kano
+9028397364;Airtel Shop Prime Hub;North East;Kano Zone;Prime Hub Plaza, No 7 Zoo Road, Kano
+8122220227;Airtel Shop Airtel Express Point, Abu;North West;Kaduna Zone;Ahamdu Bello University Zaira
+9048951250;Airtel Shop Stick and Stones ;North West;Abuja Zone;Sticks And Stone Plaza(Plaza With Gtb) Plot 1245 Adetokunbo Ademola Crescent, Besides Otis Carpet Plaza, Wuse 2, Abuja
+9045039651;Airtel Shop Abuja Domestic Airport;North West;Abuja Zone;Airport Domestic ( Nnamdi Azikiwe International Airport Abuja)
+8123702885;Airtel Shop Transcorp Hilton;North West;Abuja Zone;Foyer At The Hilton(1 Aguyi Ironsi Road Maitama), Beside Zenith Bank Opposite Mtn
+7018839739;Airtel Shop Transcorp Hilton;North West;Abuja Zone;Foyer At The Hilton(1 Aguyi Ironsi Road Maitama), Beside Zenith Bank Opposite Mtn
+9046316731;Airtel Shop Transcorp Hilton;North West;Abuja Zone;Foyer At The Hilton(1 Aguyi Ironsi Road Maitama), Beside Zenith Bank Opposite Mtn
+7085651111;Airtel Shop Abuja Intl Airport;North West;Abuja Zone;Airport Intl ( Nnamdi Azikiwe International Airport Abuja)
+8084229540;Airtel Shop Apo Mall;North West;Abuja Zone;Apo Mall (Shop 12 Novare Mall Murtala Mohammed Way Apo Abuja)
+7010668989;Airtel Shop Oando Zone 1;North West;Abuja Zone;Zone 1 Oando Filling Station Olusegun Obasanjo Way
+9072877085;Airtel Shop Apo Mall;North West;Abuja Zone;Apo Mall (Shop 12 Novare Mall Murtala Mohammed Way Apo Abuja)
+9014657953;Airtel Shop Apo Mall;North West;Abuja Zone;Apo Mall (Shop 12 Novare Mall Murtala Mohammed Way Apo Abuja)
+7016994654;Airtel Shop AES Abuja;North West;Abuja Zone;Silverbird Gallaria 1161 Memorial Drive By Musa Yar'Adua Centre Cbd Abuja
+7017773445;Airtel Shop Ajesa ;North West;Abuja Zone;17 Ajesa Street Off Aminu Kano Crescent Wuse 2 Abuja
+9016968636;Airtel Shop Ajesa ;North West;Abuja Zone;17 Ajesa Street Off Aminu Kano Crescent Wuse 2 Abuja
+8083804048;Airtel Shop Ajesa ;North West;Abuja Zone;17 Ajesa Street Off Aminu Kano Crescent Wuse 2 Abuja
+7082073427;Airtel Shop Ajesa ;North West;Abuja Zone;17 Ajesa Street off Aminu Kano Crescent Wuse 2 Abuja
+8122125491;Airtel Shop Jos ;North West;Kaduna Zone;13 Murtala Muhammed Way, Jos
+7012492501;Airtel Shop Jos ;North West;Kaduna Zone;13 Murtala Muhammed Way, Jos
+7010575111;Airtel Shop Jos ;North West;Kaduna Zone;13 Murtala Muhammed Way, Jos
+8122332436;Airtel Shop Kaduna  ;North West;Kaduna Zone;4 Yakubu Gowon Way, Kaduna
+9022598861;Airtel Shop Kaduna  ;North West;kaduna;4 Yakubu Gowan Way, Kaduna
+9021111172;Airtel Shop Kaduna  ;North West;Kaduna;4 Yakubu Gowon Way, Kaduna
+8122228561;Airtel Shop Kaduna  ;North West;kaduna;4 Yakubu Gowon Way, Kaduna
+8124547696;Airtel Shop Kaduna  ;North West;Kaduna;4 Yakubu Gowan Way, Kaduna
+8022911114;Airtel Shop Kaduna  ;North West;Kaduna;4 Yakubu Gowon Way, Kaduna
+8020698051;Airtel Shop Airtel Express Point, Kasu;North West;Kaduna;AC Kiosk Kaduna State University
+7014821101;Airtel Shop Sokoto ;North West;Sokoto Zone;16 Maiduguri Road Opp Polaris Bank Sokoto
+8027258423;Airtel Shop Sokoto ;North West;Sokoto Zone;16 Maiduguri Road Opp Polaris Bank Sokoto
+8125586433;Airtel Shop Sokoto ;North West;Sokoto Zone;16 Maiduguri Road Opp Polaris Bank
+7010431547;Airtel Shop Aba ;South East;Akwa-Ibom Zone;154B Okigwe Road, Aba
+7017274594;Airtel Shop Aba ;South East;Akwa-Ibom Zone;154B Okigwe Road, Aba
+7018883587;Airtel Shop Aba ;South East;Akwa-Ibom Zone;154B Okigwe Road, Aba
+7019390742;Airtel Shop Aba ;South East;Akwa-Ibom Zone;154B Okigwe Road, Aba
+7017861500;Airtel Shop Awka ;South East;Delta Zone;49 Zik Avenue, Amawbia
+7010464333;Airtel Shop Awka ;South East;Delta Zone;49 Zik Avenue, Amawbia
+7010461000;Airtel Shop Awka ;South East;Delta Zone;49 Zik Avenue, Amawbia
+9045991112;Airtel Shop Enugu ;South East;Enugu Zone;Plot 6, Ebeano Est. Independence Layout, Enugu
+9028036830;Airtel Shop Enugu ;South East;Enugu Zone;Plot 6, Ebeano Est. Independence Layout, Enugu
+7082499100;Airtel Shop Enugu ;South East;Enugu Zone;Plot 6, Ebeano Est. Independence Layout, Enugu
+7016092219;Airtel Shop Makurdi ;South East;Enugu Zone;I332 Ogiri Oko Way, Old Gra Makurdi
+7010519826;Airtel Shop Makurdi ;South East;Enugu Zone;I332 Ogiri Oko Way, Old Gra Makurdi
+7010574000;Airtel Shop Makurdi ;South East;Enugu Zone;I332 Ogiri Oko Way, Old Gra Makurdi
+7014127699;Airtel Shop Onitsha ;South East;Delta Zone;4 Awka Road Onitsha
+7019680147;Airtel Shop Onitsha ;South East;Delta Zone;4 Awka Road Onitsha
+9128136720;Airtel Shop Owerri ;South East;Enugu Zone;92 Whethedral Road, Opposite Dan Anyiam Stadium, Owerri
+8087115607;Airtel Shop Owerri ;South East;Enugu Zone;92 Whethedral Road, Opposite Dan Anyiam Stadium, Owerri
+8022560821;Airtel Shop Owerri ;South East;Enugu Zone;92 Whethedral Road, Opposite Dan Anyiam Stadium, Owerri
+7086030382;Airtel Shop Owerri ;South East;Enugu Zone;92 Whethedral Road, Opposite Dan Anyiam Stadium, Owerri
+9074659628;Airtel Shop Owerri ;South East;Enugu Zone;92 Whethedral Road, Opposite Dan Anyiam Stadium, Owerri
+7010929875;Airtel Shop Polo Park Mall;South East;Enugu Zone;Shop 26 Polo Park Mall, Opposite Imt Campus, Enugu
+7018647198;Airtel Shop Polo Park Mall;South East;Enugu Zone;Shop 26 Polo Park Mall, Opposite Imt Campus, Enugu
+7010463636;Airtel Shop Polo Park Mall;South East;Enugu Zone;Shop 26 Polo Park Mall, Opposite Imt Campus, Enugu
+7018719577;Airtel Shop Eket;South South;Akwa-Ibom Zone;88 Eket-Oron Road, Eket
+7016185373;Airtel Shop Eket;South South;Akwa-Ibom Zone;88 Eket-Oron Road, Eket
+9074361511;Airtel Shop Eket;South South;Akwa-Ibom Zone;88 Eket-Oron Road, Eket
+9074305815;Airtel Shop Eket;South South;Akwa-Ibom Zone;88 Eket-Oron Road, Eket
+9027866840;Airtel Shop Asaba ;South South;Delta Zone;360 Nnebisi Road, Asaba
+9044460522;Airtel Shop Asaba ;South South;Delta Zone;360 Nnebisi Road, Asaba
+9044416752;Airtel Shop Asaba ;South South;Delta Zone;360 Nnebisi Road, Asaba
+9044432802;Airtel Shop Asaba ;South South;Delta Zone;360 Nnebisi Road, Asaba
+7019777690;Airtel Shop Benin ;South South;Delta Zone;162 New Lagos Road, Benin City
+7016435610;Airtel Shop Benin ;South South;Delta Zone;162 New Lagos Road, Benin City
+7016497304;Airtel Shop Benin ;South South;Delta Zone;162 New Lagos Road, Benin City
+9126906677;Airtel Shop Benin ;South South;Delta Zone;162 New Lagos Road, Benin City
+9123406584;Airtel Shop Calabar ;South South;Akwa-Ibom Zone;45 Ibb Way, Calabar
+9047297739;Airtel Shop Calabar ;South South;Akwa-Ibom Zone;45 Ibb Way, Calabar
+7083794047;Airtel Shop Calabar ;South South;Akwa-Ibom Zone;45 Ibb Way, Calabar
+7010888896;Airtel Shop Calabar ;South South;Akwa-Ibom Zone;45 Ibb Way, Calabar
+7019071502;Airtel Shop Delta Mall;South South;Delta Zone;Shop63 Delta Mall
+7011959459;Airtel Shop Delta Mall;South South;Delta Zone;Shop63 Delta Mall
+7082808120;Airtel Shop Delta Mall;South South;Delta Zone;Shop63 Delta Mall
+7013461815;Airtel Shop Delta Mall;South South;Delta Zone;Shop63 Delta Mall
+9128005584;Airtel Shop Phc Mall;South South;Rivers Zone;Plot 2 Azikiwe Road Phc
+7017956785;Airtel Shop Phc Mall;South South;Rivers Zone;Plot 2 Azikiwe Road Phc
+7010543729;Airtel Shop Phc Mall;South South;Rivers Zone;Plot 2 Azikiwe Road Phc
+7087198465;Airtel Shop Port Harcourt ;South South;Rivers Zone;12 Evo Road, Gra, Port Harcourt
+9114964513;Airtel Shop Port Harcourt ;South South;Rivers Zone;12 Evo Road, Gra, Port Harcourt
+9070888106;Airtel Shop Port Harcourt ;South South;Rivers Zone;12 Evo Road, Gra, Port Harcourt
+9122553263;Airtel Shop Port Harcourt ;South South;Rivers Zone;12 Evo Road, Gra, Port Harcourt
+7010436560;Airtel Shop Port Harcourt ;South South;Rivers Zone;12 Evo Road, Gra, Port Harcourt
+9074566657;Airtel Shop Port Harcourt ;South South;Rivers Zone;12 Evo Road, Gra, Port Harcourt
+8024963093;Airtel Shop Port Harcourt ;South South;Rivers Zone;12 Evo Road, Gra, Port Harcourt
+7011504444;Airtel Shop Port Harcourt ;South South;Rivers Zone;12 Evo Road, Gra, Port Harcourt
+9117616428;Airtel Shop Uyo ;South South;Akwa-Ibom Zone;82 Ikot Ekpene Road, Uyo
+9014596312;Airtel Shop Uyo ;South South;Akwa-Ibom Zone;82 Ikot Ekpene Road, Uyo
+9014521884;Airtel Shop Uyo ;South South;Akwa-Ibom Zone;82 Ikot Ekpene Road, Uyo
+9012846045;Airtel Shop Uyo ;South South;Akwa-Ibom Zone;82 Ikot Ekpene Road, Uyo
+8128329962;Airtel Shop Uyo ;South South;Akwa-Ibom Zone;82 Ikot Ekpene Road, Uyo
+9127654509;Airtel Shop Warri ;South South;Delta Zone;74 Warri-Sapele Road, Beside Uba, Water Resources Junction, Warri
+9125114426;Airtel Shop Warri ;South South;Delta Zone;74 Warri-Sapele Road, Beside Uba, Water Resources Junction, Warri
+9126699174;Airtel Shop Warri ;South South;Delta Zone;74 Warri-Sapele Road, Beside Uba, Water Resources Junction, Warri
+9114568084;Airtel Shop Warri ;South South;Delta Zone;74 Warri-Sapele Road, Beside Uba, Water Resources Junction, Warri
+9126600748;Airtel Shop Warri ;South South;Delta Zone;74 Warri-Sapele Road, Beside Uba, Water Resources Junction, Warri
+8128510197;Airtel Shop Yenagoa ;South South;Rivers;513 Melford Okilo Road,Yenagoa
+8082683264;Airtel Shop Yenagoa ;South South;Rivers;513 Melford Okilo Road,Yenagoa
+9127772726;Airtel Shop Yenagoa ;South South;Rivers;513 Melford Okilo Road,Yenagoa
+8021905123;Airtel Shop Port Harcourt Airport;South South;Rivers;Departure Lounge, PH International Airport, Port Harcourt.
+7010939111;Airtel Shop Abeokuta ;West;Ogun;Opposite St Annes catholic church omida Abeokuta
+7011888677;Airtel Shop Abeokuta ;West;Ogun;Opposite St Annes catholic church omida Abeokuta
+9043740649;Airtel Shop Abeokuta ;West;Ogun;Opposite St Annes catholic church omida Abeokuta
+8085853929;Airtel Shop Ogun Outpost;West;Ogun;Oou (Ogun Outpost)
+8124498525;Airtel Shop Ado Ekiti ;West;Ekiti ;13 Ajilosun, Ikere Road Ado Ekiti
+8125675747;Airtel Shop Ado Ekiti ;West;Ekiti ;12 Ajilosun, Ikere Road Ado Ekiti
+7011557676;Airtel Shop Ado Ekiti ;West;Ekiti ;12 Ajilosun, Ikere Road Ado Ekiti
+9123431447;Airtel Shop Ile Ife ;West;Osun;39 Ibadan road May fair Ile Ife
+7012554567;Airtel Shop Ile Ife ;West;Osun;39 Ibadan road May fair Ile Ife
+7011777955;Airtel Shop Heritage Mall;West;Oyo;Shop C32, Cocoa mall, Dugbe, Ibadan
+7011784848;Airtel Shop Heritage Mall;West;Oyo;Shop C32, Cocoa mall, Dugbe, Ibadan
+7086141222;Airtel Shop Heritage Mall;West;Oyo;Shop C32, Cocoa mall, Dugbe, Ibadan
+9047810417;Airtel Shop Heritage Mall;West;Oyo;Shop C32, Cocoa mall, Dugbe, Ibadan
+9046091346;Airtel Shop Heritage Mall;West;Oyo;Shop C32, Cocoa mall, Dugbe, Ibadan
+7011887880;Airtel Shop Ilorin ;West;Oyo;Ilorin Shop
+7011777600;Airtel Shop Ilorin ;West;Oyo;Ilorin Shop
+7011839393;Airtel Shop Ilorin ;West;Oyo;Ilorin Shop
+7011888242;Airtel Shop Ilorin ;West;Oyo;Ilorin Shop
+7011838666;Airtel Shop Ilorin ;West;Oyo;Ilorin Shop
+7014218003;Airtel Shop Ilorin ;West;Oyo;Ilorin Shop
+7011559090;Airtel Shop Ilorin Outpost;West;Oyo;Unilorin Ac Kiosk(Ilorin Outpost)
+7011555536;Airtel Shop Kwasu;West;Oyo;Kwara Poly(Kwasu Ilorin Outpost)
+7011809990;Airtel Shop Oduwoye F/S;West;Oyo;Offa Oduwoye Outpost (Ilorin Outpost)
+7089276349;Airtel Shop Ibadan Mall;West;Oyo;Palms Shopping Mall, Opp Highcourt, Ring Road, Ibadan
+9120729466;Airtel Shop Ibadan Mall;West;Oyo;Palms Shopping Mall, Opp Highcourt, Ring Road, Ibadan
+7011777729;Airtel Shop Ibadan Mall;West;Oyo;Palms Shopping Mall, Opp Highcourt, Ring Road, Ibadan
+7012488992;Airtel Shop Ibadan Mall;West;Oyo;Palms Shopping Mall, Opp Highcourt, Ring Road, Ibadan
+9046477538;Airtel Shop Ibadan Mall;West;Oyo;Palms Shopping Mall, Opp Highcourt, Ring Road, Ibadan
+9026152815;Airtel Shop Osogbo ;West;Osun;Moye House, Gbongan Ibadan Road, Osogbo
+9043768904;Airtel Shop Osogbo ;West;Osun;Moye House, Gbongan Ibadan Road, Osogbo
+7012466366;Airtel Shop Osogbo ;West;Osun;Moye House, Gbongan Ibadan Road, Osogbo
+7080269261;Airtel Shop Ibadan ;West;Oyo;Airtel Regional Office, 4 Secretariat Dual Carriage Way, Bodija, Ibadan
+7015205533;Airtel Shop Ibadan ;West;Oyo;Airtel Regional Office, 4 Secretariat Dual Carriage Way, Bodija, Ibadan
+9048348229;Airtel Shop Ibadan ;West;Oyo;Airtel Regional Office, 4 Secretariat Dual Carriage Way, Bodija, Ibadan
+7085352730;Airtel Shop Ibadan ;West;Oyo;Airtel Regional Office, 4 Secretariat Dual Carriage Way, Bodija, Ibadan
+9118165166;Airtel Shop Ibadan ;West;Oyo;Airtel Regional Office, 4 Secretariat Dual Carriage Way, Bodija, Ibadan
+9072051815;Airtel Shop Ibadan ;West;Oyo;Airtel Regional Office, 4 Secretariat Dual Carriage Way, Bodija, Ibadan
+9125339699;Airtel Shop Ibadan ;West;Oyo;Airtel Regional Office, 4 Secretariat Dual Carriage Way, Bodija, Ibadan
+7012444766;Airtel Shop Ibadan ;West;Oyo;Airtel Regional Office, 4 Secretariat Dual Carriage Way, Bodija, Ibadan
+7012444171;Airtel Shop Ibadan ;West;Oyo;Airtel Regional Office, 4 Secretariat Dual Carriage Way, Bodija, Ibadan
+7011838783;Airtel Shop Sango Ota;West;Ogun;41 Idiroko Road, Sango Ota
+7012449955;Airtel Shop Sango Ota;West;Ogun;41 Idiroko Road, Sango Ota
+9128357207;Airtel Shop Osun Outpost;West;Osun;AC Kiosk Obafemi Awolowo University, Main market. Ile-Ife
+9112552189;Airtel Shop Akure Mall ;West;Ondo;Akure Mall, Old Owena Motel, Igbakoro Road, Akure.
+8081349056;Airtel Shop Akure Mall ;West;Ondo;Akure Mall, Old Owena Motel, Igbakoro Road, Akure.
+9112056119;Airtel Shop Akure Mall ;West;Ondo;Akure Mall, Old Owena Motel, Igbakoro Road, Akure.
+8025322840;Airtel Shop  Alagbaka;West;Ondo;Alagbaka (Aep Alagbaka)
+8127561538;Airtel Shop Ondo Outpost;West;Ondo;Aau Ac Kiosk Akungba
+8128759426;Airtel Shop , Alagbaka;West;Ondo;Alagbaka (Aep Alagbaka)
+9114056577;Airtel Shop , Alagbaka;West;Ondo;Alagbaka (Aep Alagbaka)
+9115790552;Airtel Shop Prime Hub;North East;Kano Zone;Prime Hub Plaza, No 7 Zoo road, Kano
+9077132490;Airtel Shop Prime Hub;North East;Kano Zone;Prime Hub Plaza, No 7 Zoo road, Kano
+9020035333;Airtel Shop Minna ;North West;Kaduna Zone;132 Gwari Road, Beside Bako Kotangora Stadium, Minna
+7010696333;Airtel Shop Minna ;North West;Kaduna Zone;132 Gwari Road, Beside Bako Kotangora Stadium, Minna
+7010722929;Airtel Shop Minna ;North West;Kaduna Zone;132 Gwari Road, Beside Bako Kotangora Stadium, Minna
+7011119077;Airtel Shop Stick and Stones ;North West;Abuja Zone;Sticks And Stone Plaza(Plaza With Gtb) Plot 1245 Adetokunbo Ademola Crescent, Besides Otis Carpet Plaza, Wuse 2,
+8080796417;Airtel Shop Port Harcourt ;North West;Abuja Zone;Sticks And Stone Plaza(Plaza With Gtb) Plot 1245 Adetokunbo Ademola Crescent, Besides Otis Carpet Plaza, Wuse 2,
+9017002525;Airtel Shop Ajesa ;North West;Abuja Zone;17 Ajesa Street Off Aminu Kano Crescent Wuse 2 Abuja
+8088806394;Airtel Shop Ajesa ;North West;Abuja Zone;17 Ajesa Street Off Aminu Kano Crescent Wuse 2 Abuja
+7010777288;Airtel Shop , Fut Minna;North West;Kaduna Zone;Post Office Area Federal University Of Technology Minna
+8088883129;Airtel Shop , Fut Minna;North West;Kaduna Zone;132 Gwari Road, Beside Bako Kotangora Stadium, Minna
+9128912174;Airtel Shop Sokoto ;North West;sokoto zone;no 16 maiduguri road sokoto
+7010585850;Airtel Shop Phc Mall;South South;Rivers Zone;Plot 2 Azikiwe Road Phc
+9042309444;Airtel Shop Uyo ;South South;Akwa-Ibom Zone;82 Ikot Ekpene Road, Uyo
+7081378468;Airtel Shop Sango Ota;West;Ogun;41 Idiroko Road, Sango Ota
+7010461116;Airtel Shop Phc Mall;South South;Rivers Zone;Plot 2 Azikiwe Road Phc
+7010555144;Airtel Shop Phc Mall;South South;Rivers Zone;Plot 2 Azikiwe Road Phc
+7010555272;Airtel Shop Phc Mall;South South;Rivers Zone;Plot 2 Azikiwe Road Phc
+9020610524;Airtel Shop Ibadan Mall;West;Oyo;Palms Shopping Mall, Opp Highcourt, Ring Road, Ibadan
+9019780012;Airtel Shop Ibadan Mall;West;Oyo;Palms Shopping Mall, Opp Highcourt, Ring Road, Ibadan
+9046985117;Airtel Shop Ibadan Mall;West;Oyo;Palms Shopping Mall, Opp Highcourt, Ring Road, Ibadan
+9042140204;Airtel Shop Ibadan Mall;West;Oyo;Palms Shopping Mall, Opp Highcourt, Ring Road, Ibadan
+9116870083;Airtel Shop Uyo ;South South;Akwa-Ibom Zone;82 Ikot Ekpene Road uyo
+8123923996;Airtel Shop Surulere  ;Lagos;Lagos Mainland;18 Bode Thomas Street, Surulere, Lagos.
+7018484830;Airtel Shop Transcorp Hilton;North West;Abuja Zone;Foyer At The Hilton(1 Aguyi Ironsi Road Maitama), Beside Zenith Bank Opposite Mtn
